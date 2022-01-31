@@ -6,8 +6,25 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>Legal Terminology Quiz</h1>
-        <div id="demo"></div>
-        <script src="index.js"></script>
+        <div class="page">
+            <header>
+                <h1>Legal Terminology Quiz</h1>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="quiz.html">Quiz</a></li>
+                </ul>
+            </header>
+            <main>
+                <aside>
+                    <form>
+                        <label for="search">Search</label>
+                        <input id="search" name="search" />
+                    </form>
+                </aside>
+                <div id="demo"></div>
+            </main>
+        </div>
+        <script type="application/json" src="terminology.json"></script>
+        <script type="module" src="index.js"></script>
     </body>
 </html>

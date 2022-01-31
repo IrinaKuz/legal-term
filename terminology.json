@@ -1,5 +1,242 @@
-{
-    "ACD": "Adjournment In Contemplation Of Dismissal: to adjourn a case for 6 months with the ultimate aim of dismissing it WITHOUT a conviction",
-    "acknowledgment": "a written declaration made before an authorized officer that the person executed the instument feely",
-    "adjournment": "to postpone a case to a future date, a continuance"
-}
+[
+    {
+        "name": "ACD", 
+        "def":  "Adjournment In Contemplation Of Dismissal: to adjourn a case for 6 months with the ultimate aim of dismissing it WITHOUT a conviction"
+    },
+    {
+        "name": "acknowledgment",
+        "def": "a written declaration made before an authorized officer that the person executed the instument feely"
+    },
+    {
+        "name": "adjournment",
+        "def": "to postpone a case to a future date, a continuance"
+    },
+    {
+        "name": "administrator",
+        "def": "person, usually appointed by a surrogate court judge, to administer the affairs a deceased person when the person died without a will"
+    },
+    {
+        "name": "affidavit",
+        "def": "a signed written statement that is sworn to be true to the best knowledge of the person signing it"
+    },
+    {
+        "name": "allegation",
+        "def": "statement that is yet to be proven"
+    },
+    {
+        "name": "allocution",
+        "def": "a Judge's address on the record to determine whether parties understand the proposed settlement (stipulation)"
+    },
+    {
+        "name": "annul",
+        "def": "to make void or to cancel"
+    },
+    {
+        "name": "appeal",
+        "def": "an appelant asks a higher court to review the transcript of the proceeding with the aim of modifying or overturning the order or judgment"
+    },
+    {
+        "name": "appearance",
+        "def": "the official noting (oral or written) that a person is coming into court as a party in the action or as the attorney for a party"
+    },
+    {
+        "name": "appelant",
+        "def": "the person who appeals the order or judgment"
+    },
+    {
+        "name": "appellee",
+        "def": "the respondent in the appeal (the one who did not file the notice of appeal)"
+    },
+    {
+        "name": "application",
+        "def": "a request to a judge (the court)"
+    },
+    {
+        "name": "arbitrator",
+        "def": "a person (usually an attorney) appointed by the court to either look into an issue or decide an issue"
+    },
+    {
+        "name": "arraignment",
+        "def": "the criminal court process of informing the defendant of the charges asking how he pleads and deciding amount of bail, if any, that will be required"
+    },
+    {
+        "name": "attach",
+        "def": "is the formal process of using a court order to seize personal or real property"
+    },
+    {
+        "name": "bail",
+        "def": "the ammount of bail (deposit of money or property) is set by the criminal judge at arraignment to release the prisoner and guarantee his return on the next court date"
+    },
+    {
+        "name": "beyond a reasonable doubt",
+        "def": "the measure of proof needed to prove a criminal case (proof that is greater than the reasonable doubt that a juror might have)"
+    },
+    {
+        "name": "brief",
+        "def": "written statement submitted by a lawyer to the Judge containing legal arguments supporting his conclusions"
+    },
+    {
+        "name": "calendar",
+        "def": "list of cases scheduled to be heard by the court"
+    },
+    {
+        "name": "cause of action",
+        "def": "a specific reason for which an action is started (Example: damages to auto)"
+    },
+    {
+        "name": "certification",
+        "def": "to certify (state on a paper with the court seal) that the attached copy of a document has been compared to the original and is a true copy"
+    },
+    {
+        "name": "chattel",
+        "def": "personal property like a car, as opposed to real property (land or buildings)"
+    },
+    {
+        "name": "codicil",
+        "def": "a document attached to a will and forming a part of the will"
+    },
+    {
+        "name": "common law",
+        "def": "English law that developed from custom"
+    },
+    {
+        "name": "complaint",
+        "def": "(Civil) The written reasons for which damages are sought. (Criminal) Allegations made to a police or peace officer charging breaches of criminal law."
+    },
+    {
+        "name": "concurrent sentence",
+        "def": "A sentence for an offense that may be served concurrently (at the same time) as a sentence for a different offense"
+    },
+    {
+        "name": "consanguinity",
+        "def": "a person may be related to another by consanguinity (blood) or by affinity (frienship)"
+    },
+    {
+        "name": "consecutive sentence",
+        "def": "a sentence for an offense that must be served successively (not at the same time) as a sentence for a different offense"
+    },
+    {
+        "name": "conviction",
+        "def": "a person is convicted if he is found guilty of an offense"
+    },
+    {
+        "name": "count",
+        "def": "an individual charge in an indictment"
+    },
+    {
+        "name": "counterclaim",
+        "def": "defendants's claim against the plaintiff"
+    },
+    {
+        "name": "crime",
+        "def": "a misdemeanor or a felony"
+    },
+    {
+        "name": "deadly weapon",
+        "def": "any instument (including a gun) that may cause serious physical injury or death"
+    },
+    {
+        "name": "default",
+        "def": "failure of a party to appear (default in judgment)"
+    },
+    {
+        "name": "de novo",
+        "def": "to have a new trial 'from the geginning'"
+    },
+    {
+        "name": "DCJS",
+        "def": "Division of Criminal Justice Services (does the fingerprint checks)"
+    },
+    {
+        "name": "decision",
+        "def": "the judge's ruling at the end of a case"
+    },
+    {
+        "name": "defendant",
+        "def": "the person being sued in a civil case or the person charged with committing an offense in a criminal case"
+    },
+    {
+        "name": "deposition",
+        "def": "answers to oral questions done under oath"
+    },
+    {
+        "name": "dismissal",
+        "def": "a judicial order disposing of a motion or without trial"
+    },
+    {
+        "name": "executor",
+        "def": "party appointed in a will to handle the affairs of the deceased according to the terms listed in the will"
+    },
+    {
+        "name": "ex parte",
+        "def": "proceeding done with only one party (ex parte request)"
+    },
+    {
+        "name": "felony",
+        "def": "an offence for which a term of imprisonment over one year may be imposed"
+    },
+    {
+        "name": "garnish",
+        "def": "to seize (attach) wage or other property based on an unpaid judgment"
+    },
+    {
+        "name": "general verdict",
+        "def": "in one in which the judge or jury finds in favor of plaintiff or defendant"
+    },
+    {
+        "name": "grand jury",
+        "def": "composed of 23 citizens who decide whether to indict (charge) a person with a felony and go to trial"
+    },
+    {
+        "name": "guardian ad litem",
+        "def": "a person (usually an attorney) appointed by the judge to represent the interests of a minor or incompenet during the course of a civil proceeding"
+    },
+    {
+        "name": "haveas corpus",
+        "def": "an instrument ordering that a person unlawfully imprisoned be brought to court for a hearing"
+    },
+    {
+        "name": "indictment",
+        "def": "the formal accusation by a grand jury which charges a person with committing a crime (misdemeanr or felony). Also known as a 'true bill'"
+    },
+    {
+        "name": "infant's compromise",
+        "def": "civil proceeding for court approval of settlement in a case involving an infant"
+    },
+    {
+        "name": "information",
+        "def": "a type of criminal complaint"
+    },
+    {
+        "name": "injunction",
+        "def": "an order by the court ordering someone to do an act or refrain from doing an act"
+    },
+    {
+        "name": "inquest",
+        "def": "trial with only one party appearing"
+    },
+    {
+        "name": "jurisdiction",
+        "def": "authority of a court to try certain types of cases (jurisdiction over matrimonial cases) or the authority of a court to try cases within a prescribed geographical area (county, state, etc.)"
+    },
+    {
+        "name": "jury",
+        "def": "a group of citizens selected to decide a civil or criminal case"
+    },
+    {
+        "name": "lien",
+        "def": "a legal right on personal or real property because of an unpaid debt or other reason"
+    },
+    {
+        "name": "lis pendens",
+        "def": "a pending lawsuit (Example, notice of lis pendens - notice that a lawsuit is pending having to do with the right to real property)"
+    },
+    {
+        "name": "in camera",
+        "def": "not in the courtroom, but in judge's chamber"
+    },
+    {
+        "name": "appeal",
+        "def": ""
+    }
+]

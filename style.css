@@ -8,3 +8,57 @@ html {
     font-family: Arial, Helvetica, sans-serif;
     color: red;
 }
+body {
+    padding: 1em;
+}
+.page {
+    width: 80%;
+    margin: auto;
+}
+header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-left: 10%;
+    width: 100%;
+    align-items: baseline;
+    border-bottom: 2px solid;
+    background-color: white;
+}
+header ul {
+    display: flex;
+    list-style: none;
+    flex-grow: 1;
+    justify-content: center;
+}
+header ul li{
+    margin-right: 1em;
+}
+main {
+    display: flex;
+    margin-top: 50px;
+}
+aside {
+    width: 30%;
+    height: 100vh;
+    position: fixed;
+}
+aside form {
+    margin-top: 1em;
+}
+#demo {
+    margin-left: 20%;
+}
+dl {
+    margin: 1em;
+}
+dt {
+    font-size: 1.2em;
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: 0.6em;
+}
+dd {
+    margin-bottom: 2em;
+}
