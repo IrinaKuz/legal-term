@@ -34,6 +34,14 @@ header ul {
 header ul li{
     margin-right: 1em;
 }
+header a {
+    text-decoration: none;
+}
+header a,
+header a:visited,
+header a:hover {
+    color: black;
+}
 main {
     display: flex;
     margin-top: 50px;
