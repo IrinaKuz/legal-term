@@ -1,0 +1,182 @@
+[
+    {
+        "question": "The highest court of New York State is", 
+        "rightAnswer":  "the Court of Appeals",
+        "wrongAnswers": [
+            "the district Court", 
+            "the Appellate Division", 
+            "the Supreme Court"
+        ]
+    },
+    {
+        "question": "The court which handles cases against the government of the State of New York is", 
+        "rightAnswer":  "Court of Claims",
+        "wrongAnswers": [
+            "Family Court", 
+            "Supreme Court", 
+            "District Court"
+        ]
+    },
+    {
+        "question": "The court which handles cases involving the affairs of decedents (wills and estates)", 
+        "rightAnswer":  "The Surrogate's Court",
+        "wrongAnswers": [
+            "the County Court", 
+            "The District Court", 
+            "the Court of Claims"
+        ]
+    },
+    {
+        "question": "The terms Plaintiff and Defendant are used primarily in which courts?", 
+        "rightAnswer":  "Civil Courts",
+        "wrongAnswers": [
+            "Family Court", 
+            "Criminal Court", 
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The term DISCOVERY as used in civil actions, refers to:", 
+        "rightAnswer":  "pre-trial process of exchanging information between plaintiff and defendant",
+        "wrongAnswers": [
+            "uncovering of fraudulent conduct", 
+            "information obtained from a witness on the witness stand", 
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The type of subpoena that requires that evidence (documents or other property) be brought to court is called:", 
+        "rightAnswer":  "subpoena duces tecum",
+        "wrongAnswers": [
+            "subpoena ad testificandum", 
+            "subpoena to testify", 
+            "None of the above"
+        ]
+    },
+    {
+        "question": "A peremptory challenge of a prospective juror is a challenge:", 
+        "rightAnswer":  "for which no reason need to be given",
+        "wrongAnswers": [
+            "for cause", 
+            "that is made and denied by the judge", 
+            "None of the above"
+        ]
+    },
+    {
+        "question": "A trial that is bifurcated is tried in how many parts?", 
+        "rightAnswer":  "two",
+        "wrongAnswers": [
+            "three", 
+            "four", 
+            "None of the above"
+        ]
+    },
+    {
+        "question": "A judge delivers a charge to the jury:", 
+        "rightAnswer":  "after testimony and closing statements",
+        "wrongAnswers": [
+            "before trial begins", 
+            "immediately after the jury is selected", 
+            "None of the above"
+        ]
+    },
+    {
+        "question": "A satisfaction of judgment is filled:", 
+        "rightAnswer":  "after payment of the judgment amount",
+        "wrongAnswers": [
+            "at the start of an action", 
+            "before the judgment is prepared", 
+            "before payment of the judgment amount"
+        ]
+    },
+    {
+        "question": "A felony is an offense that may result in imprisonment of:", 
+        "rightAnswer":  "more than a year",
+        "wrongAnswers": [
+            "1 - 15 days", 
+            "3 - 6 months", 
+            "less than a year"
+        ]
+    },
+    {
+        "question": "The law relating to procedure to be followed in New York State criminal court is found in the:", 
+        "rightAnswer":  "CPL",
+        "wrongAnswers": [
+            "CPLR", 
+            "FCA", 
+            "CLR"
+        ]
+    },
+    {
+        "question": "Which of the following has the power to indict a person?", 
+        "rightAnswer":  "grand jury",
+        "wrongAnswers": [
+            "petit jury", 
+            "family court jury", 
+            "None of the above"
+        ]
+    },
+    {
+        "question": "Juvenile delinquency proceedings are conducted in which of the following courts?", 
+        "rightAnswer":  "family court",
+        "wrongAnswers": [
+            "civil court", 
+            "town court", 
+            "village court"
+        ]
+    },
+    {
+        "question": "A written declaration made before an authorized officer that the person executed instrument freely is:", 
+        "rightAnswer":  "an acknowledgment",
+        "wrongAnswers": [
+            "an allegation", 
+            "an appearance", 
+            "None of the above"
+        ]
+    },
+    {
+        "question": "The party who files an appeal is called", 
+        "rightAnswer":  "an appellant",
+        "wrongAnswers": [
+            "an appellee", 
+            "a plaintiff", 
+            "a respondent"
+        ]
+    },
+    {
+        "question": "The highest court of New York State is", 
+        "rightAnswer":  "the Supreme Court",
+        "wrongAnswers": [
+            "the district Court", 
+            "the Appellate Division", 
+            "the Court of Appeals"
+        ]
+    },
+    {
+        "question": "The highest court of New York State is", 
+        "rightAnswer":  "the Supreme Court",
+        "wrongAnswers": [
+            "the district Court", 
+            "the Appellate Division", 
+            "the Court of Appeals"
+        ]
+    },
+    {
+        "question": "The highest court of New York State is", 
+        "rightAnswer":  "the Supreme Court",
+        "wrongAnswers": [
+            "the district Court", 
+            "the Appellate Division", 
+            "the Court of Appeals"
+        ]
+    },
+    {
+        "question": "The highest court of New York State is", 
+        "rightAnswer":  "the Supreme Court",
+        "wrongAnswers": [
+            "the district Court", 
+            "the Appellate Division", 
+            "the Court of Appeals"
+        ]
+    }
+]

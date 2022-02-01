@@ -236,7 +236,127 @@
         "def": "not in the courtroom, but in judge's chamber"
     },
     {
-        "name": "appeal",
-        "def": ""
+        "name": "In the matter of",
+        "def": "beginning part of a family court caption"
+    },
+    {
+        "name": "minor",
+        "def": "one who has not attained the age of 18"
+    },
+    {
+        "name": "misdemeanor",
+        "def": "offence punishable by jail up to one year"
+    },
+    {
+        "name": "motion",
+        "def": "an oral or written request for a court order"
+    },
+    {
+        "name": "nunc pro tunc",
+        "def": "'now for then': because he didn't file his answer in time, he filed a motion to the court to file an answer nunc pro tunc."
+    },
+    {
+        "name": "oath",
+        "def": "a statement that a person swears as to the truth of a statement"
+    },
+    {
+        "name": "order to show cause",
+        "def": "a court order to appear as directed and present to the court such reasons why a particular decree should not be made"
+    },
+    {
+        "name": "panel",
+        "def": "a number of juror candidates selected to be questioned for possible inclusion in a trial jury"
+    },
+    {
+        "name": "parole",
+        "def": "the part of a sentence which consists of releasing a person from detention based on certain conditions to be followed"
+    },
+    {
+        "name": "petty offense",
+        "def": "offense for which a fine or term of imprisonment of 15 days or less may be imposed"
+    },
+    {
+        "name": "plaintiff",
+        "def": "the party who starts a civil action"
+    },
+    {
+        "name": "polling the jury",
+        "def": "the process of asking each member of jury if they actually voted as recorded"
+    },
+    {
+        "name": "The people of the State of New York",
+        "def": "the first part of the caption in a criminal case"
+    },
+    {
+        "name": "power of attorney",
+        "def": "a document which authorizes a person to act as agent for another person either in a limited area or in all areas"
+    },
+    {
+        "name": "probate",
+        "def": "surrogate court procedure which is used to prove that a will is valid"
+    },
+    {
+        "name": "replevin",
+        "def": "in civil law, an action seeking the recovery of property"
+    },
+    {
+        "name": "special verdict",
+        "def": "in civil actions, a verdict by a jury which decides specific questions posed to it in writing"
+    },
+    {
+        "name": "stay",
+        "def": "to stop (The court granted a temporary stay of the eviction)"
+    },
+    {
+        "name": "subpoena",
+        "def": "A document seved on a person to come to court to testify"
+    },
+    {
+        "name": "subpoena duces tecum",
+        "def": "A document served on a person to bring to court certain documents and testify if necessary"
+    },
+    {
+        "name": "summons",
+        "def": "a court order (civil or criminal) asking that a person come to court"
+    },
+    {
+        "name": "statute of limitations",
+        "def": "prescribed maximum periods during which an action is permitted to be commenced"
+    },
+    {
+        "name": "surety",
+        "def": "a person or company that guarantees to pay money or do an act if the party responsible fails to do an act or pay the money (bail surety - a bondsman)"
+    },
+    {
+        "name": "tort",
+        "def": "a civil wrong (injury, damage, etc.) for which a claim may be made in a civil action"
+    },
+    {
+        "name": "third party defendant",
+        "def": "a party who is brought into the action by a defendant who asserts that the third party is responsible to pay the damages, and not the defendant"
+    },
+    {
+        "name": "transcript",
+        "def": "the official record of a proceeding (as recorded by the court reporter or electronic device)"
+    },
+    {
+        "name": "undertaking",
+        "def": "deposit of money or bond in court"
+    },
+    {
+        "name": "venue",
+        "def": "the authorized place of trial (usually a county or the state where the cause of action arose)"
+    },
+    {
+        "name": "verdict",
+        "def": "the decision of a judge or finding of a jury after trial"
+    },
+    {
+        "name": "voir dire",
+        "def": "the examination of possible jurors during the jury selection process"
+    },
+    {
+        "name": "warrant",
+        "def": "written court authorization for a peace or police officer to arrest a person or perform some other act, as in a warrant of eviction (order to transfer of prosession of property from one party to another)"
     }
 ]
