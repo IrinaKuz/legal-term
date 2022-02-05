@@ -144,39 +144,39 @@
         ]
     },
     {
-        "question": "The highest court of New York State is", 
-        "rightAnswer":  "the Supreme Court",
+        "question": "A party appointed in a will to handle the affairs of the deceased according to the terms of the will is called:", 
+        "rightAnswer":  "an executor",
         "wrongAnswers": [
-            "the district Court", 
-            "the Appellate Division", 
-            "the Court of Appeals"
+            "an executioner", 
+            "a probator", 
+            "a surety"
         ]
     },
     {
-        "question": "The highest court of New York State is", 
-        "rightAnswer":  "the Supreme Court",
+        "question": "The agency that does fingerprint checks is:", 
+        "rightAnswer":  "the DCJS",
         "wrongAnswers": [
-            "the district Court", 
-            "the Appellate Division", 
-            "the Court of Appeals"
+            "the DAT", 
+            "the ACD", 
+            "None of the above"
         ]
     },
     {
-        "question": "The highest court of New York State is", 
-        "rightAnswer":  "the Supreme Court",
+        "question": "The authorized place of trial (usually a county or state), usually where the cause of action arose is known as:", 
+        "rightAnswer":  "venue",
         "wrongAnswers": [
-            "the district Court", 
-            "the Appellate Division", 
-            "the Court of Appeals"
+            "venal", 
+            "veneris due", 
+            "venu"
         ]
     },
     {
-        "question": "The highest court of New York State is", 
-        "rightAnswer":  "the Supreme Court",
+        "question": "The examination of possible jurors during the jury selection process is known as:", 
+        "rightAnswer":  "the voir dire",
         "wrongAnswers": [
-            "the district Court", 
-            "the Appellate Division", 
-            "the Court of Appeals"
+            "the questioning", 
+            "the order", 
+            "the voir lire"
         ]
     }
 ]

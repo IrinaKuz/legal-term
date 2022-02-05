@@ -1,3 +1,4 @@
+// Fisher-Yates shuffle
 function shuffle(array) {
     let currentIndex = array.length,  randomIndex;
 
@@ -98,7 +99,7 @@ function initialize(quizQuestions) {
     function nextQuestion() {
         currentQuestion++;
         if(currentQuestion >= questions.length) {
-            document.getElementById('quiz').innerHTML = 'The end of test!\nYour stat:' + correctAnswer;
+            document.getElementById('quiz').innerHTML = 'Your Score: ' + correctAnswer + ' out of ' + questions.length + ' questions.';
             const btn = document.createElement('button');
             btn.innerText = 'Take Quiz Again?';
             btn.setAttribute('id', 'startQuiz')
@@ -106,7 +107,6 @@ function initialize(quizQuestions) {
             document.getElementById('startQuiz').addEventListener('click', function() {
                 initialize(questions);
             })
-            console.log('The end of test!\nYour stat:' + correctAnswer);
         } else {
             addQuestion(questions[currentQuestion]);
         } 

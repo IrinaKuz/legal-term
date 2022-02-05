@@ -40,7 +40,12 @@ header a {
 header a,
 header a:visited,
 header a:hover {
+    padding: 1em 1em 0.3em 1em;
     color: black;
+}
+header .active-link a{
+    background-color: hotpink;
+    color: white;
 }
 main {
     display: flex;
@@ -104,5 +109,77 @@ dd {
     font-family: Arial, Helvetica, sans-serif;
     padding: 0.5em 1em;
     margin: 1em;
+}
+.question-count {
+    font-size: 0.8em;
+}
+/* Flash cards */
+.answer {
+    opacity: 0;
+}
+.show-answer {
+    opacity: 1;
+    transition: all 0.5s;
+}
+.flash-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    border: 2px solid #ccc;
+}
+.flash-card h3{
+    margin: 1em;
+    text-align: center;
+}
+.flash-card div{
+    margin: 1em;
+}
+.flash-card button {
+    display: block;
+    font-size: 0.8em;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    padding: 1em;
+    margin-top: 1em;
+    cursor: pointer;
+    color: #ccc;
+    background-color: white;
+}
+.flash-card button:hover {
+    color: black;
+    background-color: #ccc;
+    transition: all 1s;
+}
+#flash-card {
+    position: relative;
+    display: flex;
+}
+#flash-card .next-button {
+    z-index: 5000;
+    padding: 0 1em;
+    order: 3;
+    border-radius: 0 10px 10px 0;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+#flash-card .prev-button {
+    z-index: 5000;
+    padding: 0 1em;
+    order: 1;
+    border-radius: 10px 0 0 10px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+#flash-card .flash-card {
+    order: 2;
+}
+
+#flash-card .next-button:hover,
+#flash-card .prev-button:hover {
+    background-color: rgb(0, 0, 0, 0.2);
+    transition: all 1s;
 }
 

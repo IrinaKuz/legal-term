@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Legal Terminology Quiz</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="page">
+            <header>
+                <h1><a href="index.html">Legal Terminology Quiz</a></h1>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="quiz.html">Quiz</a></li>
+                    <li><a href="flashcards.html">Flash Cards</a></li>
+                    <li class="active-link"><a href="about.html">About</a></li>
+                </ul>
+            </header>
+            <main>
+                <div>
+                    <div id="random-gif"></div>
+                    <h1>Hi!</h1>
+                    <p>This site was developed by Irina with JavaScript, HTML, and CSS!</p>
+                </div>
+            </main>
+        </div>
+        <script>
+            fetch('https://api.giphy.com/v1/gifs/random?api_key=PQflU853CGqUe6N2wxCPvrOUcNVJLlB7&rating=g&tag=hi')
+                .then(response => {
+                    if (response.ok) {
+                        return response;
+                    } else {
+                        var error = new Error('Error ' + response.status + ': ' + response.statusText);
+                        error.response = response;
+                        throw error;
+                    }
+                    }, error => {
+                    var errmess = new Error(error.message);
+                    throw errmess;
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data.data)
+                    const imgURL = data.data.images.downsized_large.url;
+                    console.log(imgURL);
+                    const img = document.createElement('img');
+                    img.setAttribute('src', imgURL);
+                    document.getElementById('random-gif').append(img);
+                })
+                .catch(err => console.log(err))
+        </script>
+    </body>
+</html>
