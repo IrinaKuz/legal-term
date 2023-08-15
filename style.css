@@ -114,7 +114,7 @@ dd {
     position: relative;
     display: flex;
     flex-direction: column;
-    width: 600px;
+    width:90%;
     border: 2px solid #ccc;
 }
 .flash-card h3{
@@ -132,8 +132,8 @@ dd {
     padding: 1em;
     margin-top: 1em;
     cursor: pointer;
-    color: #ccc;
-    background-color: white;
+    background-color: #777;
+    color: white;
 }
 .flash-card button:hover {
     color: black;
